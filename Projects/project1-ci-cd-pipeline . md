@@ -1,0 +1,13 @@
+# CI/CD Pipeline Project
+
+## Tools Used
+- Git
+- GitHub
+- Docker
+- Jenkins
+
+## Steps
+1. Create Git repository
+2. Build Docker image
+3. Push image to DockerHub
+4. Deploy using Jenkins pipeline
