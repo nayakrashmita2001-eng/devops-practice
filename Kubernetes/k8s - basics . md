@@ -1,5 +1,9 @@
 # Kubernetes Basics
 ## kubectl get pods
+List all pods
 ## kubectl get services
+List all services
 ## kuberctl apply -f deployment .yaml
+create deployment
 ## kubectl delete pod pod_name
+Delete pod
