@@ -1,5 +1,9 @@
 # Docker Basics
 ## docker pull nginx
+Download nginx image
 ## docker run -d -p 80:80 nginx
+Run nginx container
 ## docker ps
+List running containers
 ## docker stop container_id
+Stop container
