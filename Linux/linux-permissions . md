@@ -1,0 +1,15 @@
+# Linux Permissions
+
+Linux permissions control who can read, write, or execute files.
+
+## Permission Types
+
+| Symbol | Meaning |
+|------|------|
+| r | Read |
+| w | Write |
+| x | Execute |
+
+Example:
+
+-rwxr-xr--
